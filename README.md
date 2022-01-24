@@ -8,9 +8,9 @@ After replace the math and reading scores for Thomas High School with NaNs while
 
 # Resources
 
-1 - Software: Python 3.9.1
-2 - Anaconda
-3 - Jupyter-Notebook
+1. Software: Python 3.9.1
+2. Anaconda
+3. Jupyter-Notebook
 4 - Pandas
 
 # Results
